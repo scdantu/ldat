@@ -1,0 +1,7 @@
+v	0.1b
+UPDATES:
+- Modularized code into packages
+- Water density module 100% function
+	
+BUG FIXES:
+- Fix HETATM

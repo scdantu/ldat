@@ -1,0 +1,15 @@
+cd ../asd/
+vim WASD.py
+vim PASD.py
+vim WASD.py
+cd Utilities/workspace/ASDA/asd/
+ll
+l
+cd ../asd/
+ll
+chmod u+x FileIO.py Hash_Maps.py __init__.py PASD.py Utilities.py WASD.py
+ll
+l
+vim PASD.py
+vim WASD.py
+vim ../bin/gmx_asd.py

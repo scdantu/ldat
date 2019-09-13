@@ -1,0 +1,17 @@
+cd Utilities/workspace/ASDA/bin/
+pwd
+ll
+chmod u+x gmx_asd.py
+pwd
+vim gmx_asd.py
+cd ../bin/
+l
+cd ../bin/
+ll
+rm .gmx_asd.py.swp
+vim gmx_asd.py
+vim ../asd/WASD.py
+cd bin/
+ll
+mv gmx_asd.py gmx_ldat.py
+ll
